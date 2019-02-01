@@ -1,3 +1,6 @@
+Angular 7 
+Ng-Bootstrap 4
+
 # Ekart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
